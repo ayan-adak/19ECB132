@@ -36,3 +36,5 @@ Readme File For Easy Access to Programs
 [Test 2 Program 6 VPL](https://github.com/ayan-adak/19ECB132/blob/main/test2_program6.c)
 
 [Test 2 Program 7 VPL](https://github.com/ayan-adak/19ECB132/blob/main/test2_program7.c)
+
+[Test 2 Program 7 Alt VPL](https://github.com/ayan-adak/19ECB132/blob/main/test2_program7_a.c)
