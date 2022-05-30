@@ -5,7 +5,6 @@ Readme File For Easy Access to Programs
 
 
 ## 🔗 Links
-[Add Delete Mod Array](https://github.com/ayan-adak/19ECB132/blob/main/add_del_mod_array.c)
 
 [Binary Tree](https://github.com/ayan-adak/19ECB132/blob/main/binary_tree.c)
 
