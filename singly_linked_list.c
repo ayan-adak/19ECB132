@@ -31,3 +31,14 @@ int main() {
   } // end of while
   
 } // end of main
+
+
+/* Output
+
+*** Singly Linked List with 3 nodes***
+*** Traversing the elements in the Singly Linked List***
+0
+1
+2
+
+*/

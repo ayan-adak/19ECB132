@@ -26,3 +26,16 @@ void main()
  }
 }
   
+
+/* Output
+
+Enter the Order of the Matrix:
+2 2
+
+Enter the Coefficients of the Matrix:
+1 4 2 3
+
+Sum of the 0 row is = 5
+Sum of the 1 row is = 5
+
+*/

@@ -25,6 +25,14 @@ int main()
 	printf("\n Fibbonacci of %d: ",n);
 	for(i=0;i<n;i++)
 	{
-		printf("%d",fibbonacci(i));
+		printf("%d ",fibbonacci(i));
 	}
 }
+
+
+/* 
+
+Input - 5
+Output - 0 1 1 2 3
+
+*/

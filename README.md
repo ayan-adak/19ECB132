@@ -10,9 +10,9 @@ Readme File For Easy Access to Programs
 
 [Fibonacci Series](https://github.com/ayan-adak/19ECB132/blob/main/fibonacci.c)
 
-[Hello World](https://github.com/ayan-adak/19ECB132/blob/main/helloworld)
+[Hello World](https://github.com/ayan-adak/19ECB132/blob/main/helloworld.c)
 
-[Vovel Consonant](https://github.com/ayan-adak/19ECB132/blob/main/vovel_consonant.c)
+[Vowel Consonant](https://github.com/ayan-adak/19ECB132/blob/main/vowel_consonant.c)
 
 [Insertion Sort](https://github.com/ayan-adak/19ECB132/blob/main/insertion_sort.c)
 

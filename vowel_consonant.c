@@ -1,7 +1,7 @@
 //program to check whether the entered character is a vowel or consonant
 
 #include<stdio.h>
-main()
+int main()
 {
 	char ch;
 	printf("Enter a Character = ");
@@ -13,3 +13,12 @@ main()
 	else
 	printf("%c is Not an Alphabet",ch);
 }
+
+
+/* Output
+
+Enter a Character = a
+
+a is Vowel
+
+*/
