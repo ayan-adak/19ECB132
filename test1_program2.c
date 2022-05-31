@@ -19,3 +19,15 @@ int main()
     printf("%d\n",arr);
     return 0;
 }
+
+
+/*
+
+Input
+6
+1 4 4 4 5 3
+
+Output
+4
+
+*/

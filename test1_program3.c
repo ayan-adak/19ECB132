@@ -16,3 +16,15 @@ int main()
     printf("%d\n",sum);
     return 0;
 }
+
+
+/*
+
+Input
+6
+1 2 3 4 10 11
+
+Output
+31
+
+*/

@@ -55,3 +55,15 @@ int main()
     pre(root);
     return 0;
 }
+
+
+/*
+
+Input
+6
+1 2 5 3 6 4
+
+Output
+1 2 5 3 4 6
+
+*/

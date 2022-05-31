@@ -62,3 +62,15 @@ int main()
 	printf("%d",getHeight(root));
     return 0;
 }
+
+
+/*
+
+Input
+7
+3 2 5 1 4 6 7
+
+Output
+3
+
+*/

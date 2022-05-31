@@ -19,3 +19,15 @@ int main()
     }
     printf("%d",count);
 }
+
+
+/*
+
+Input
+4
+2 5 4 6
+
+Output
+1
+
+*/

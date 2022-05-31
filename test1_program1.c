@@ -19,3 +19,15 @@ void main()
     }
     printf("%d\n",ar);
 }
+
+
+/* 
+
+Input
+6 3
+1 3 2 6 1 2
+
+Output
+5
+
+*/
